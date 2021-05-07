@@ -1,3 +1,6 @@
+This project uses Spotify Connect API
+
+Mo is a dukbut
 
 In the project directory, you can run:
 
