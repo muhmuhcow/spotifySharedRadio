@@ -1,0 +1,6 @@
+Show users that show up
+ - Set up server - node js
+  - copy paste most basic existing server
+ - Use socket io
+ - set up connection
+ - 
