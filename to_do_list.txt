@@ -1,6 +1,9 @@
 Show users that show up
  - Set up server - node js
   - copy paste most basic existing server
+  - const chat = io.connect(`/puzzle`);
+  - const connectionSocket = io.connect(``);
+  - send something from client to server
  - Use socket io
  - set up connection
  - 
