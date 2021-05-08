@@ -1,17 +1,12 @@
 import React, {useState} from 'react';
 import { Link } from 'react-router-dom';
-import {usernameAdded} from '../actions';
-import store from '../store';
 
 const Login = () => {
 
     const [name,setName] = useState('');
 
     const handleLogin = () => {
-        if (!name) {
             console.log(name);
-            store.dispatch(usernameAdded(name));
-        }
     };
 
     return (
