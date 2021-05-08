@@ -23,6 +23,8 @@ Your app is ready to be deployed!
 
 Useful links:
 https://developer.spotify.com/documentation/web-api/guides/using-connect-web-api/
+https://www.valentinog.com/blog/socket-react/
+https://socket.io/docs/v4/index.html
 
 
 App functionality:

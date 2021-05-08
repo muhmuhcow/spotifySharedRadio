@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 
 const Home = () => {
 
-    const [name,setName] = useState('');
+    // const [name,setName] = useState('');
 
     return (
         <div>

@@ -15,11 +15,12 @@ app.use(router);
 io.on('connection', function(socket){
     console.log('a user connected');
     socket.on('join', ({name})=>{
-      socket.broadcast.emit('playerData',{otherPlayer:name});
+      console.log(name);
+      //socket.broadcast.emit('playerData',{otherPlayer:name});
     });
-    socket.on('disconnect',()=>{
-        console.log('user disconnected')
-    })
+    // socket.on('disconnect',()=>{
+    //     console.log('user disconnected')
+    // })
   });
 
 // io.of('/puzzle')
