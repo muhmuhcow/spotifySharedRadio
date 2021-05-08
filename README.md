@@ -1,5 +1,7 @@
 This project uses Spotify Connect API
 
+Actually spoitfy already has this feature in beta lol but still feel like it will be fun to try do it
+
 Mo is a dukbut
 
 In the project directory, you can run:
